@@ -13,3 +13,8 @@ global using System.Windows.Media.Imaging;
 global using System.Windows.Navigation;
 global using System.Windows.Shapes;
 global using FriendOrganizer.Model;
+global using System.Collections.ObjectModel;
+global using FriendOrganizer.UI.Data;
+global using System.ComponentModel;
+global using System.Runtime.CompilerServices;
+global using FriendOrganizer.UI.ViewModel;
